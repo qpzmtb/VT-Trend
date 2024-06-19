@@ -63,21 +63,6 @@ ____________________________
 ____________________________
 <br>
 
-**Q4. Which port is used for FTP control connection?**
-* A. 20
-* B. 21
-* C. 22
-* D. 23
-    <details>
-      <summary>ANSWER</summary>
-
-      
-      B. 21
-      
-    </details>
-____________________________
-<br>
-
 **Q5. Which is the correct combination of protocols and ports for email transfer?**
 * A. SMTP: 53, POP3: 110, IMAP4: 161
 * B. SMTP: 25, POP3: 123, IMAP4: 143
