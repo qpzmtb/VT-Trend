@@ -222,11 +222,11 @@ _________
 * you can adjust the time settings on the network devices in your network.
 
 **161: SNMP (Simple Network Management Protocol)**
-* you can manage all the network equipments in your network
-* you can know the symptom of disorder and malfunction of the network devices
+* You can manage all the network equipments in your network
+* You can know the symptom of disorder and malfunction of the network devices
 
 **389: LDAP (Light Directory Access Protocol)**
-* you can manage all the network resources efficiently on a single server(LDAP Server)
+* You can manage all the network resources efficiently on a single server(LDAP Server)
 network resources that can be managed: User Information(ID and Password), Network Device Information, etc..
 
 **445: SMB (Server Message Block)**
