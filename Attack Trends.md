@@ -160,3 +160,74 @@ ________
 ________
 ### 👉 About RockYou.txt:
 - This is a password list and it contains 32,000,000 users’ passwords leaked from RockYou, Inc. (social application provider company) in 2009. The stolen passwords were various from easy guessable ones to complicated unguessable ones, and they were not hashed, so hackers were able to abuse them easily. RockYou.txt is not only used by hackers, but also used by ethical hackers and service developers.  With utilizing this password list, we can check the strength of the passwords stored on the database.
+________
+### 👉 Footprinting:
+- The technique used for gathering information about computer systems and the entities they belong to.
+- To get this information, a hacker might use various tools and technologies.
+- This information is very useful to a hacker who is trying to crack a whole system.
+- In computer security context, “Footprinting” generally refers to one of the pre-attack phases (in pre-attack phases, tasks are performed before doing the actual attacks).
+
+### 👉 Commands and Tools used for Footprinting:
+**nslookup**: 
+* A network administration command-line tool for querying DNS (Domain Name System) to obtain the mapping between domain name and IP address.
+
+**traceroute(tracert)**:
+* A command-line tool. “traceroute” command can be used to map the network path to the destination host. You can get the IP addresses of the routers that will be traversed to reach the destination host.
+* traceroute: for Linux, tracert: for Windows
+
+**Nmap**:
+* A port scanning tool.
+_________
+### 👉 Port Scanning:
+- One of the actual techniques of footprinting.
+
+**Port Scanning Tools**:
+* Nmap (Network Mapper)
+* Hping2, Hping3
+_________
+* Well-known Ports = System Ports : 0 - 1,023
+* Registered Ports = User Ports : 1,024 - 49,151
+* Dynamic Ports = Ephemeral Ports : 49,152 - 65,535
+_________
+### 👉 File Transfer: FTP (File Transfer Protocol)
+- 20: Data Transfer Connection
+- 21: Control Connection
+_________
+### 👉 Remote Access
+- 23: Telnet (Teletype Network)
+- 22: SSH (Secure SHell)
+_________
+### 👉 Send/Receive Email
+**Send**:
+* 25: SMTP (Simple Mail Transfer Protocol)
+
+**Receive**:
+* 110: POP3 (Post Office Protocol v3)
+* 143: IMAP4 (Internet Message Access Protocol v4)
+_________
+### 👉 Special Usage:
+- 465: SMTPS
+- 587: SMTP Submission (OP25B: Outbound Port 25 Block)
+- 993: IMAP4S
+- 995: POP3S
+_________
+### 👉 DNS (Domain Name System): 53
+_________
+### 👉 Web
+- 80 : HTTP (Hyper Text Transfer Protocol)
+- 443: HTTPS (Hyper Text Transfer Protocol Secure)
+_________
+### 👉 Others
+**123: NTP (Network Time Protocol)**
+* you can adjust the time settings on the network devices in your network.
+
+**161: SNMP (Simple Network Management Protocol)**
+* you can manage all the network equipments in your network
+* you can know the symptom of disorder and malfunction of the network devices
+
+**389: LDAP (Light Directory Access Protocol)**
+* you can manage all the network resources efficiently on a single server(LDAP Server)
+network resources that can be managed: User Information(ID and Password), Network Device Information, etc..
+
+**445: SMB (Server Message Block)**
+* Network resources sharing protocol.
