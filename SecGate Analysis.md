@@ -62,7 +62,7 @@ __________________________
 ### Sample2
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/c75dbf49-66c3-4a63-bab3-6faf677f9938)
 
-## *Sample2 Plaintext*
+### *Sample2 Plaintext*
 <pre>
 alertContents_totalCount: 1
 Date and time of occurrence: 2024-05-08 14:35:21 +0900(JST)
@@ -105,7 +105,7 @@ __________________________
 ### Sample3
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/bbcd8902-56ec-4ce2-a3b5-85a82ab6b00a)
 
-## *Sample3 Plaintext*
+### *Sample3 Plaintext*
 <pre>
 alertContents_totalCount: 1
 Date and time of occurrence: 2024-05-08 14:35:21 +0900(JST)
@@ -148,7 +148,7 @@ __________________________
 ### Sample4
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/878356e6-5f21-46ed-950b-7e6f0f0bd765)
 
-## *Sample4 Plaintext*
+### *Sample4 Plaintext*
 <pre>
 alertContents_totalCount: 1
 Date and time of occurrence: 2024-05-08 14:35:21 +0900(JST)
