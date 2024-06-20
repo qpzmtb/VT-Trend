@@ -130,7 +130,7 @@ ________
 **COUNTERMEASURE 2**: Use Salt
 ________
 ### 👉 Salt:
-- Ransom strings added to plain text password before hashing.
+- Random strings added to plain text password before hashing.
 - Length: at least 128 bit (16 bytes).
 - Salt is not a perfect way, because some servers are vulnerable to Pass-the-Hash Attack.
 ________
