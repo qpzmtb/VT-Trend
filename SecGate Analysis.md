@@ -1,4 +1,4 @@
-### ANALYSIS GUIDE ❗️❗️❗️
+## ANALYSIS GUIDE ❗️❗️❗️
 <br>
 
 **Approved Tools**
@@ -19,7 +19,7 @@ __________________________
 ### Sample1
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/7a3a45de-5126-4b02-a4ec-f10fb426f1c8)
 
-## *Sample1 Plaintext*
+### *Sample1 Plaintext*
 <pre>
 alertContents_totalCount: 1
 Date and time of occurrence: 2024-05-08 14:35:21 +0900(JST)
