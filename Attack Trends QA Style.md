@@ -334,7 +334,8 @@ _________
 - 993: IMAP4S
 - 995: POP3S
 _________
-### 👉 DNS (Domain Name System): 53
+### 👉 DNS (Domain Name System): 
+- 53
 _________
 ### 👉 Web
 - 80 : HTTP (Hyper Text Transfer Protocol)
