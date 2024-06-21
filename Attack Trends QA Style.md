@@ -68,14 +68,17 @@ _________
 - Lockout the account for a while if the number of login failure exceeds threshold.
 - Threshold Example: 10 failures in one minute.
 - Account Lockout is not a perfect way, because hackers can bypass Lockout by trying to brute force VERY SLOWLY, or using Reverse Brute Force Attack method.
-
+_________
+**Bypass User Account Lockout**:
 <details>
-  <summary>Q7.1 ANSWER</summary>
-  👉 Bypass User Account Lockout:
+  <summary>Q7.1 ANSWER 1</summary>
+  If the Lockout is 10x of login failure in 1 min, you can keep the failures 9x in 1 min.
 </details>
 
-* If the Lockout is 10x of login failure in 1 min, you can keep the failures 9x in 1 min.
-* You can also uses Reverse Brute Force Attack.
+<details>
+  <summary>Q7.1 ANSWER 2</summary>
+ You can also uses Reverse Brute Force Attack.
+</details>
 _________
 <details>
   <summary>Q8 ANSWER</summary>
@@ -92,7 +95,7 @@ _________
 </details>
 
 - A wide range of malicious activities accomplished through human interactions.
-- “Social Engineering” is a generic term, so a lot of malicious activities through human interactions (phishing, piggybacking etc..) are categorized as this attack.
+- Is a generic term, so a lot of malicious activities through human interactions (phishing, piggybacking etc..) are categorized as this attack.
 _________
 <details>
   <summary>Q10 ANSWER</summary>
