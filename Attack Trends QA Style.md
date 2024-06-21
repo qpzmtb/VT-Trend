@@ -272,17 +272,34 @@ ________
 - In computer security context, “Footprinting” generally refers to one of the pre-attack phases (in pre-attack phases, tasks are performed before doing the actual attacks).
 
 ### 👉 Commands and Tools used for Footprinting:
-**nslookup**: 
+
+<details>
+  <summary>Q23.1 ANSWER 1</summary>
+  nslookup: 
+</details>
+
 * A network administration command-line tool for querying DNS (Domain Name System) to obtain the mapping between domain name and IP address.
 
-**traceroute(tracert)**:
+<details>
+  <summary>Q23.1 ANSWER 2</summary>
+ traceroute(tracert): 
+</details>
+
 * A command-line tool. “traceroute” command can be used to map the network path to the destination host. You can get the IP addresses of the routers that will be traversed to reach the destination host.
 * traceroute: for Linux, tracert: for Windows
 
-**Nmap**:
+<details>
+  <summary>Q23.1 ANSWER 3</summary>
+ Nmap:: 
+</details>
+
 * A port scanning tool.
 _________
-### 👉 Port Scanning:
+<details>
+  <summary>Q24 ANSWER 3</summary>
+👉 Port Scanning: 
+</details>
+
 - One of the actual techniques of footprinting.
 
 **Port Scanning Tools**:
