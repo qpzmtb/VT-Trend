@@ -262,7 +262,7 @@ ________
 👉 About RockYou.txt:
 </details>
 
-- This is a password list and it contains 32,000,000 users’ passwords leaked from RockYou, Inc. (social application provider company) in 2009. The stolen passwords were various from easy guessable ones to complicated unguessable ones, and they were not hashed, so hackers were able to abuse them easily. RockYou.txt is not only used by hackers, but also used by ethical hackers and service developers.  With utilizing this password list, we can check the strength of the passwords stored on the database.
+- This is a password list and it contains 32,000,000 users’ passwords leaked from RockYou, Inc. (social application provider company) in 2009. The stolen passwords were various from easy guessable ones to complicated unguessable ones, and they were not hashed, so hackers were able to abuse them easily. It's not only used by hackers, but also used by ethical hackers and service developers.  With utilizing this password list, we can check the strength of the passwords stored on the database.
 ________
 <details>
   <summary>Q23 ANSWER</summary>
@@ -272,7 +272,7 @@ ________
 - The technique used for gathering information about computer systems and the entities they belong to.
 - To get this information, a hacker might use various tools and technologies.
 - This information is very useful to a hacker who is trying to crack a whole system.
-- In computer security context, “Footprinting” generally refers to one of the pre-attack phases (in pre-attack phases, tasks are performed before doing the actual attacks).
+- In computer security context, it's generally refers to one of the pre-attack phases (in pre-attack phases, tasks are performed before doing the actual attacks).
 
 ### 👉 Commands and Tools used for Footprinting:
 
