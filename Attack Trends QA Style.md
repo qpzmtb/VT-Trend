@@ -285,11 +285,10 @@ ________
 
 <details>
   <summary>Q23.1 ANSWER 2</summary>
- traceroute(tracert): 
+ traceroute: for Linux, tracert: for Windows
 </details>
 
 * A command-line tool. It's command can be used to map the network path to the destination host. You can get the IP addresses of the routers that will be traversed to reach the destination host.
-* traceroute: for Linux, tracert: for Windows
 
 <details>
   <summary>Q23.1 ANSWER 3</summary>
