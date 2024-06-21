@@ -206,7 +206,7 @@ ________
 </details>
 
 - List of combination of password hash, original plain text password for each hash value, and hash algorithm used to generate the password hash.
-- In general, rainbow tables are created by attackers using a lot of stolen passwords and these lists are shared in some black markets like the "Dark web".
+- In general, it is created by attackers using a lot of stolen passwords and these lists are shared in some black markets like the "Dark web".
 
 **COUNTERMEASURE 1**: Use strong password
 
