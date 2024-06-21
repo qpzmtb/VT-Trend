@@ -12,6 +12,8 @@
 
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/8ad7b8e6-6196-4bb6-bbed-fcce830dfe65)
 
+![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/7876e516-da88-43e7-a0cd-a5be4a0df21a)
+
 __________________________
 <br>
 
