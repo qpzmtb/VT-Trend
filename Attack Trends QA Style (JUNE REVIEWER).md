@@ -21,8 +21,8 @@ _________
   👉 Dictionary Attack:
 </details>
 
-- Hackers attempt to crack passwords with using Dictionary.
-- “Dictionary” is a word list of generic terms and names (like the name of a specific person, countries, rivers and mountains, fruits and vegetables etc..).
+- Hackers attempt to crack passwords with using a Dictionary.
+- Is a word list of generic terms and names (like the name of a specific person, countries, rivers and mountains, fruits and vegetables etc..).
 
 **COUNTERMEASURE**: 
 - use strong and unguessable password.
