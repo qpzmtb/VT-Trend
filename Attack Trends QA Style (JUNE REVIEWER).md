@@ -21,7 +21,7 @@ _________
   👉 Dictionary Attack:
 </details>
 
-- Hackers attempt to crack passwords with using a Dictionary.
+- Hackers attempt to crack passwords with using this list.
 - Is a word list of generic terms and names (like the name of a specific person, countries, rivers and mountains, fruits and vegetables etc..).
 
 **COUNTERMEASURE**: 
@@ -32,10 +32,10 @@ _________
   👉 Password List Attack:
 </details>
 
-- Hackers attempt to crack passwords with using Password List.
-- Is the list of the passwords leaked from many compromised companies.
+- Hackers attempt to crack passwords with using this List.
+- Is a list of passwords leaked from many compromised companies.
 - This list is shared in hackers’ community in the dark web and updated frequently.
-- If you use the same passwords for several services, that means your accounts are vulnerable to Password List Attack (people tend to share the same password with several services, because it is easy to remember).
+- If you use the same passwords for several services, that means your accounts are vulnerable to this Attack (people tend to share the same password with several services, because it is easy to remember).
 
 **COUNTERMEASURE**: 
 * use unique passwords for each service
@@ -119,7 +119,13 @@ _________
 </details>
 
 - hackers steal password hash from the server, and crack password with using Rainbow Table.
-- Password Hash: string generated from plaintext password with using specific algorithm (Hash Algorithm).
+_________
+<details>
+  <summary>Q12.1 ANSWER</summary>
+  👉 Password Hash:
+</details>
+
+- string generated from plaintext password with using specific algorithm (Hash Algorithm).
 _________
 <details>
   <summary>Q13 ANSWER</summary>
