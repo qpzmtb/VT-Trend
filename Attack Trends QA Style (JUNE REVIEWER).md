@@ -5,7 +5,7 @@
 
 - Guess possible password.
 - People tend to use simple(easy to memorize) password in nature ex: “123456”, “password”, “admin”.
-- Guessing Attack generally uses OSINT technique.
+- This Attack generally uses OSINT technique.
 _________
 <details>
   <summary>Q2 ANSWER</summary>
