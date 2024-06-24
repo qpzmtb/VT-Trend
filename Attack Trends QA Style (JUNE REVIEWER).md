@@ -67,7 +67,7 @@ _________
 
 - Lockout the account for a while if the number of login failure exceeds threshold.
 - Threshold Example: 10 failures in one minute.
-- Account Lockout is not a perfect way, because hackers can bypass Lockout by trying to brute force VERY SLOWLY, or using Reverse Brute Force Attack method.
+- This method is not a perfect way, because hackers can bypass Lockout by trying to brute force VERY SLOWLY, or using Reverse Brute Force Attack method.
 _________
 **Bypass User Account Lockout**:
 <details>
