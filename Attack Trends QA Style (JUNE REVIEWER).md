@@ -33,8 +33,8 @@ _________
 </details>
 
 - Hackers attempt to crack passwords with using Password List.
-- “Password List” is the list of the passwords leaked from many compromised companies.
-- Password Lists are shared in hackers’ community in the dark web and updated frequently.
+- Is the list of the passwords leaked from many compromised companies.
+- This list is shared in hackers’ community in the dark web and updated frequently.
 - If you use the same passwords for several services, that means your accounts are vulnerable to Password List Attack (people tend to share the same password with several services, because it is easy to remember).
 
 **COUNTERMEASURE**: 
