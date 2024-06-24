@@ -292,7 +292,7 @@ ________
 
 <details>
   <summary>Q23.1 ANSWER 3</summary>
- Nmap:: 
+ Nmap:
 </details>
 
 * A port scanning tool.
