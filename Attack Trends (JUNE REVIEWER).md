@@ -1,7 +1,7 @@
 ### 👉 Guessing Attack:
 - Guess possible password.
 - People tend to use simple(easy to memorize) password in nature ex: “123456”, “password”, “admin”.
-- Guessing Attack generally uses OSINT technique.
+- This attack generally uses OSINT technique.
 _________
 ### 👉 OSINT (Open Source Intelligence):
 - Technique used to gather valuable information that is publicly accessible (data source is generally the Internet).
@@ -9,17 +9,17 @@ _________
 - People tend to use password based on their personal information.
 _________
 ### 👉 Dictionary Attack:
-- Hackers attempt to crack passwords with using Dictionary.
-- “Dictionary” is a word list of generic terms and names (like the name of a specific person, countries, rivers and mountains, fruits and vegetables etc..).
+- Hackers attempt to crack passwords with using this list.
+- It is a word list of generic terms and names (like the name of a specific person, countries, rivers and mountains, fruits and vegetables etc..).
 
 **COUNTERMEASURE**: 
 - use strong and unguessable password.
 _________
 ### 👉 Password List Attack:
-- Hackers attempt to crack passwords with using Password List.
-- “Password List” is the list of the passwords leaked from many compromised companies.
-- Password Lists are shared in hackers’ community in the dark web and updated frequently.
-- If you use the same passwords for several services, that means your accounts are vulnerable to Password List Attack (people tend to share the same password with several services, because it is easy to remember).
+- Hackers attempt to crack passwords with using this List.
+- it is the list of the passwords leaked from many compromised companies.
+- they are shared in hackers’ community in the dark web and updated frequently.
+- If you use the same passwords for several services, that means your accounts are vulnerable to this Attack (people tend to share the same password with several services, because it is easy to remember).
 
 **COUNTERMEASURE**: 
 * use unique passwords for each service
@@ -43,7 +43,7 @@ _________
 ### 👉 Account Lockout
 - Lockout the account for a while if the number of login failure exceeds threshold.
 - Threshold Example: 10 failures in one minute.
-- Account Lockout is not a perfect way, because hackers can bypass Lockout by trying to brute force VERY SLOWLY, or using Reverse Brute Force Attack method.
+- it is not a perfect way, because hackers can bypass Lockout by trying to brute force VERY SLOWLY, or using Reverse Brute Force Attack method.
 
 **Bypass User Account Lockout**:
 * If the Lockout is 10x of login failure in 1 min, you can keep the failures 9x in 1 min.
@@ -68,7 +68,9 @@ _________
 _________
 ### 👉 Rainbow Table Attack (Offline Password Cracking):
 - hackers steal password hash from the server, and crack password with using Rainbow Table.
-- Password Hash: string generated from plaintext password with using specific algorithm (Hash Algorithm).
+_________
+### 👉 Password Hash: 
+- string generated from plaintext password with using specific algorithm (Hash Algorithm).
 _________
 ### 👉 Hashing:
 - Technique to calculate input string with specific algorithm(Hash Algorithm) to generate unique string.
