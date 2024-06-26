@@ -150,7 +150,7 @@ __________________________
 ### Sample4
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/878356e6-5f21-46ed-950b-7e6f0f0bd765)
 
-### *Sample4 Plaintext*
+### *Sample4 Plaintext (EXAM)*
 <pre>
 alertContents_totalCount: 1
 Date and time of occurrence: 2024-05-08 14:35:21 +0900(JST)
@@ -187,3 +187,38 @@ Analyst Comment:
 
 ### ANSWER:
 ![image](https://github.com/qpzmtb/VT-Trend/assets/173013469/8e842ea6-ac0d-45ac-a5a2-31bced187f90)
+__________________________
+<br>
+
+### *Sample5 Plaintext (EXAM)*
+<pre>
+alertContents_totalCount:1
+Date and time of occurrence:2024-05-08 14:35:21 +0900(JST)
+Action: Allowed
+Event Name: Allowed
+Risk Name: suspicious
+Risk Score:66
+User Name: yurie.rikiishi@techone.co.jp
+Source Local IP Address:192.168.11.33
+Source Grobal IP Address: XXX.XXX.XXX.XXX(undefined)
+Destination IP: XXXXXX.XXX.XXX(undefined)
+Traffic forwarding method: ZscalerClientConnector
+URL: download.wondershare[-ljp/inst/uniconverter15_setup_full14225.exe
+Protocol: 23.208.85.152
+Status Code:200
+User Agent: Mozilla/5.0(Windows NT 10.0; Win64; ×64) AppleWebkit/537.36(KHTML, like Gecko)
+Chrome/123.0.0.0 5 Safari/537.36 Edg/123.0.0.0
+Referer: uniconverter.wondershare[-ljp/picture-convert/heic-to-jpg.html?
+URL Category: Corporate Marketing
+File Type: Windows Executable (exe, exe64,scr)
+File Name: uniconverter 15_ setup._full14225.exe
+Malware Class: Behaivior Analysis
+Malware Category: Sandbox Suspicious
+Sandbox Hash Value (MD5): 144d741be2da0ce054d08f8452febb77
+Policy Name: None
+Cloud Application Name: Wondershare Japan
+Cloud Application Class: Business
+	
+Analyst Comment (traffic direction and impact level):
+
+</pre>
