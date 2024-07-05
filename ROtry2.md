@@ -1,6 +1,6 @@
 toggle := false
 
-#IfWinActive, ("ahk_class Ragnarok")
+IfWinActive, ("ahk_class Ragnarok")
 $F12::
 {
     toggle := !toggle
@@ -20,22 +20,23 @@ ColorSearch:
     {
         newX := Px + 50
         newY := Py + 50
+        Sleep, 100
         Loop, 10 ; Repeat the following actions 10 times
         {
-            ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+            ControlSend, ahk_parent, {i}, ahk_class Ragnarok
             Sleep, 100
             MouseClick, left, %newX%, %newY%
             Sleep, 100
         }
 		Sleep, 100
-        ControlSend, ahk_parent, {F6}, ahk_class Ragnarok
+        ControlSend, ahk_parent, {o}, ahk_class Ragnarok
         Sleep, 100
-        ControlSend, ahk_parent, {F8}, ahk_class Ragnarok
+        ControlSend, ahk_parent, {p}, ahk_class Ragnarok
     }
     else
     {
         Sleep 100
-        ControlSend, ahk_parent, {F8}, ahk_class Ragnarok
+        ControlSend, ahk_parent, {p}, ahk_class Ragnarok
     }
 }
 return
