@@ -20,7 +20,6 @@ ColorSearch:
     {
         newX := Px + 50
         newY := Py + 50
-        Sleep, 100
         Loop, 10 ; Repeat the following actions 10 times
         {
             ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
