@@ -29,6 +29,7 @@ ColorSearch:
             MouseClick, left, %newX%, %newY%
             Sleep 100
         }
+		Sleep 100
         Send {F6}
         Sleep 100
         Send {F8}
