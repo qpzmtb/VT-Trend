@@ -1,6 +1,6 @@
 toggle := false
 
-IfWinActive, ("ahk_class Ragnarok")
+#IfWinActive, ("ahk_class Ragnarok")
 $F12::
 {
     toggle := !toggle
