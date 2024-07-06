@@ -29,12 +29,13 @@ ColorSearch:
 			MouseMove, %NewX%, %NewY%
 			Sleep, 10
 			MouseClick, left, %newX%, %newY%
+   			Sleep, 10
         }
 		
 		Sleep, 100
         ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
         Sleep, 100
-        ControlSend, ahk_parent, {p}, ahk_class Ragnarok
+        ControlSend, ahk_parent, {F8}, ahk_class Ragnarok
     }
 	
     else
