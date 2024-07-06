@@ -21,72 +21,72 @@ ColorSearch:
     newX := Px + 50
     newY := Py + 50
 
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
 	
     Sleep, 10
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 10
 	
-	MouseMove, %NewX%, %NewY%
-	Sleep, 10
 	ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+	Sleep, 10
+	MouseMove, %NewX%, %NewY%
 	Sleep, 10
     MouseClick, left, %newX%, %newY%
     Sleep, 50
