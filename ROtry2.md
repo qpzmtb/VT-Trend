@@ -24,9 +24,9 @@ ColorSearch:
 		
         Loop, 10 ; Repeat the following actions 10 times
         {
-			MouseMove, %NewX%, %NewY%
-			Sleep, 10
 			ControlSend, ahk_parent, {F7}, ahk_class Ragnarok
+			Sleep, 10
+			MouseMove, %NewX%, %NewY%
 			Sleep, 10
 			MouseClick, left, %newX%, %newY%
         }
